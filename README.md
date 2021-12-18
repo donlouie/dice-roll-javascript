@@ -4,7 +4,7 @@ Javascript dice roll application
 
 ### 🔍 Image Preview
 
-![Imgur](https://i.imgur.com/kwKdEyN.png)
+![Imgur](https://i.imgur.com/Xb4XIus.png)
 
 ### 🏗️ Built With
 
