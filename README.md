@@ -1,42 +1,39 @@
-# dice-roll-app
-🎲 Dice Roll Javascript
+## About The Project
 
-## ❔ About
+Javascript dice roll application
 
-🎲 Dice Roll Application made with HTML, CSS, Javascript
-
-## 🏗️ Built With
-
-- HTML
-- CSS
-- Javascript
-
-## 🔍 Website Preview
+### 🔍 Image Preview
 
 ![Imgur](https://i.imgur.com/kwKdEyN.png)
 
-## 📝️ Website Features
+### 🏗️ Built With
 
-Dice Roll
-- Roll dice
-- Display winner
-- Display dice count
+-   HTML5, CSS3, Javascript
 
-## Installing
+### 📝️Prerequisites
 
-Open HTML file to test
+### 🛠️ Installation
 
-## Running the tests
+Download or create your own copy and run the index.html
 
-Run the app with
+```
+git clone
+```
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+<!-- Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com -->
+
+<!-- Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name) -->
 
 ```
 
 ```
-
-## Deployment
-
-
-## 🧔 Authors
-
-- **Louie** - _Initial work_
